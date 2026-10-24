@@ -1,0 +1,8 @@
+Flask
+Flask-Login
+Flask-SQLAlchemy
+Flask-WTF
+PyMySQL
+python-dotenv
+argon2-cffi
+pytest
