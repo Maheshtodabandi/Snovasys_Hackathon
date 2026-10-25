@@ -6,3 +6,4 @@ PyMySQL
 python-dotenv
 argon2-cffi
 pytest
+gunicorn
